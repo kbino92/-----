@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm list:*)",
+      "Bash(npx netlify-cli:*)",
+      "WebFetch(domain:lbli.bigonelife.com)",
+      "WebFetch(domain:airportbus.seize-info.com)",
+      "WebSearch",
+      "WebFetch(domain:info.aeunmama.com)",
+      "WebFetch(domain:ko.wikipedia.org)",
+      "WebFetch(domain:www.officefind.co.kr)"
+    ]
+  }
+}
